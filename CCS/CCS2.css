@@ -1,0 +1,242 @@
+@charset "utf-8";
+
+body {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: normal;
+	background-color: #FFF;
+	font-size: 14px;
+	}
+	
+
+	
+	#nav_wrapper {
+	height: 80px;
+	width: 550px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #0000BC;	
+	
+	}
+	
+	#Imagen {
+	background-color: #00F;
+	height: 200px;
+	width: 550px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #FFF;
+
+				
+}
+
+
+
+
+	
+
+
+#nav_wrapper ul li  {
+	list-style-type: none;
+	display:inline;
+	margin-left: 5px;
+	margin-right: auto;
+	
+	}
+
+
+
+#nav_wrapper  a{
+	color:#FFF;
+	text-decoration:none;
+	padding:5px;
+	
+	
+	}
+
+
+
+	
+
+#Container {
+	width: 800px;
+	height: auto;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 11px;
+	background-color: #FFF;
+}
+#largebox h1 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #009;
+	background-color: #FFF;
+}
+#box1 h1 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: #0000BC;
+}
+#box3 h2 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: #0000BC;
+}
+
+#box2 h2{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: #0000BC
+}
+#box2 p {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 13px;
+	font-weight: lighter;
+	color: #000;
+}
+#box1 p {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 13px;
+	font-weight: lighter;
+	color: #000;
+}
+
+#box3 p {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 13px;
+	font-weight: lighter;
+	color: #000;
+}
+
+
+
+
+#largebox h2 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+	color: #000000;
+}
+#largebox p {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	color: #000;
+}
+
+
+
+
+
+	
+
+#Container #Header table tr th h2 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 40px;
+	font-weight: lighter;
+	color: #F90;
+}
+#Container #Header table tr th h1 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: bolder;
+	color: #999;
+}
+
+
+
+
+
+#Sidebar  {
+	width: 150px;
+	height: 550px;
+	float: right;
+	background-color: #FFFFFF;
+	}	
+#Container #Sidebar ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: lighter;
+	
+}
+
+#Container #Sidebar li {
+	list-style-type: none;
+	display: block;
+	width: 150px;
+	height: 30px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	padding-top: 19px;
+
+	
+}
+#Container #Sidebar li a {
+	text-decoration: none;
+	color: #666;
+	width: 20px;
+	margin-left: 16px;
+	
+}
+
+
+	
+#Container #Sidebar li:hover {
+	background-color: #F60
+}
+	
+	
+#largebox {
+	width: 800px;
+	height: 290px;
+	background-color: #FFF;
+	;
+}
+
+#box1 {
+	width: 200px;
+	height: 200px;
+	background-color: #FFFFFF;
+	float: left;
+	margin-left: 10px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: lighter;
+	color: #666;
+	font-size: 13px;
+}
+
+#box2 {
+	width: 200px;
+	height: 200px;
+	background-color: #FFF;
+	float: left;
+	margin-left: 15px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: bold;
+	color: #06F;
+	font-size: 20px;
+}
+
+#box3 {
+	width: 200px;
+	height: 200px;
+	background-color: #FFF;
+	float: right;
+	margin-right: 13px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: lighter;
+	color: #666;
+	font-size: 13px;
+	
+}
+
+#Footer {
+	background-color: #1428A0;
+	height: 50px;
+	margin-bottom: 21px;
+	clear: both;
+}

@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+body {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	}
+	
+	
+	
+#nav {
+	background:url(../IM/DSC_7840.JPG);
+	background-size:cover;
+	height: 600px;
+	width: 100%;
+}
+
+#nav_wrapper {
+	background-color: #00F;
+	height: 80px;
+	width: 550px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 200px;
+	opacity: 0.50;	
+	}
+	
+
+
+#nav_wrapper ul li  {
+	list-style-type: none;
+	display:inline;
+	
+	}
+#nav_wrapper  a{
+	color:#FFF;
+	text-decoration:none;
+	padding:5px;
+	
+	
+	}
+	
+	
+#nav_wrapper ul li:hover  {
+	background-color: #FFF;
+	transition: all 0.45s;
+	}
+
+
+
